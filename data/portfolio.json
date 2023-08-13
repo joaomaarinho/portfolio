@@ -1,0 +1,144 @@
+{
+  "name": "João Souza",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm João Souza",
+  "headerTaglineThree": "Software Developer and UX Designer",
+  "headerTaglineFour": " based in São Paulo - Brazil.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/joaomaarinho" },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/joaomaarinho/"
+    },
+    {
+      "id": "3",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/joaomaarinho/"
+    },
+    { "id": "4", "title": "Blog", "link": "#" },
+    {
+      "id": "5",
+      "title": "Email",
+      "link": "mailto:joaomarinho.souza@hotmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project One Test",
+      "description": "Web Design",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "2",
+      "title": "Project Two",
+      "description": "Web Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "description": "Design",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Four",
+      "description": "Marketing",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    },
+    {
+      "id": "5",
+      "title": "Project Five",
+      "description": "Development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://chetanverma.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Development",
+      "description": "As a skilled web developer, I specialize in creating dynamic and responsive websites and landing pages. Leveraging my expertise in technologies like React.js, Next.js, Node.js, and Bootstrap, I craft seamless user experiences that work flawlessly across various devices. My proficiency in JavaScript allows me to implement interactive features and ensure optimal performance. With a creative mindset and attention to detail, I collaborate with clients to transform their ideas into visually appealing and functional web solutions."
+    },
+    {
+      "id": "4",
+      "title": "Landing Pages",
+      "description": "Crafting compelling landing pages is my expertise. Using HTML, CSS, and JavaScript, I create visually striking pages that drive conversions. I combine creativity with data-driven design to guide user interactions and achieve impactful results. Let's turn clicks into customers and ideas into captivating landing pages."
+    },
+    {
+      "id": "3",
+      "title": "Software Development",
+      "description": "As an accomplished software developer, I specialize in crafting efficient and innovative solutions. Proficient in a range of programming languages, including Python and JavaScript, I design, develop, and maintain software that meets the highest standards of functionality and performance. My experience spans across various domains, enabling me to tackle complex challenges and deliver robust applications. I am dedicated to writing clean, maintainable code and staying up-to-date with the latest industry trends to ensure the delivery of cutting-edge solutions. From concept to implementation, I thrive on translating ideas into tangible software products that cater to user needs and drive technological advancement."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "I create essential brand components, including the logo, color palette, typography, and various design elements that set your brand apart from its competitors."
+    }
+  ],
+  "aboutpara": "Hello there! I'm a passionate junior software developer on a journey of creativity and growth. With a heart that beats for both coding and design, I'm currently on the cusp of graduating while delving into the fascinating worlds of software development and design.",
+  "aboutpara1": "I'm proud to embrace my identity as a gay individual, adding a unique hue to my perspective. Beyond my coding adventures, I'm eagerly pursuing design studies, exploring the realms of web design and user experience. I have an artistic soul, always seeking ways to blend technology and aesthetics to create captivating digital experiences.",
+  "aboutpara2": "My love for learning is boundless – I'm forever engrossed in expanding my knowledge and honing my skills. When I'm not immersed in code or design, you'll often find me immersed in the virtual realms of gaming. And what fuels all these endeavors? A good cup of coffee, of course!",
+  "aboutpara3": "In a delightful twist, I channel my artistic side into crafting crochet creations, which has inspired me to set up a small store to share these handmade treasures with the world.",
+  "aboutpara4": "As I approach the horizon of graduation, I'm excited to continue my journey, merging my software development prowess, design aspirations, and artistic spirit. Join me as I code, design, learn, game, and create – each day an adventure in innovation and self-expression.",
+  "resume": {
+    "tagline": "👋  I'm a software developer, UX designer.",
+    "description": "Hello there! I'm a passionate junior software developer on a journey of creativity and growth. With a heart that beats for both coding and design, I'm currently on the cusp of graduating while delving into the fascinating worlds of software development and design.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "April 2022 - Present",
+        "type": "Internship",
+        "position": "Software Developer",
+        "company": "Embraer",
+        "bullets": "Contributed to a key project by developing a new feature that encompassed both front-end and back-end aspects., Utilized Coldfusion | JavaScript | SVN | Fusebox | jQuery | Sybase SQL for implementation., Developed front-end interfaces following HTML | Bootstrap | JavaScript principles to enhance user experience., Integrated business logic on the back end and executed SQL queries in the Sybase SQL database., Effectively collaborated with the team and met delivery deadlines., Gained experience in code versioning using SVN., Participated in Workshops and Internal Training (Workshop Docker and Kubernetes | Scrum Fundamentals | Kanban | Serverless Containers and CI/CD)."
+      },
+      {
+        "id": "2",
+        "dates": "March 2020 - March 2022",
+        "type": "Internship",
+        "position": "IT Support",
+        "company": "Prefeitura de São José dos Campos",
+        "bullets": "Server Support and IT-related Issues., Hardware and Equipment Installation, User Data Backup., Email Configuration., Operating System Configuration."
+      }
+    ],
+    "education": {
+      "universityName": "FATEC São José dos Campos",
+      "universityDate": "2020-2024",
+      "universityPara": "Analisys and System Development"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "Java", "Coldfusion"],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "NodeJs",
+      "Next.js",
+      "Vue",
+      "Bootstrap",
+      "Express"
+    ],
+    "others": [
+      "Figma",
+      "AWS",
+      "React Native",
+      "Flutter",
+      "MySQL",
+      "Git",
+      "GitFlow",
+      "REST",
+      "PostgreSQL",
+      "SVN",
+      "Docker"
+    ]
+  }
+}
